@@ -8,7 +8,7 @@ export default function HomePage() {
       <Seo templateTitle="Home" />
 
       <div className="layout py-12">
-        <h1>AI Tools</h1>
+        <h1>nextjs-ts-tailwind-starter</h1>
       </div>
     </Layout>
   );
